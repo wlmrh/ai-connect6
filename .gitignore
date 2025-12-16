@@ -1,2 +1,5 @@
 /AiFramework_src/
 out/
+.DS_Store
+AiDeveloper/.idea/vcs.xml
+ai-connect6.iml
